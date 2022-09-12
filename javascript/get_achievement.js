@@ -12,3 +12,5 @@ function get_achievement(japanese, math, science) {
 }
 
 console.log(get_achievement(80, 80, 80));
+
+
